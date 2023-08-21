@@ -1,0 +1,6 @@
+MilestoneID,ProjectID,Description,DueDate
+MilestoneID_1,ProjectID_1,Researchcompleted,2023-07-15
+MilestoneID_2,ProjectID_2,Prototypeapproved,2023-08-10
+MilestoneID_3,ProjectID_3,Marketanalysisreportsubmitted,2023-07-31
+MilestoneID_4,ProjectID_1,(novalue),(novalue)
+MilestoneID_5,ProjectID_2,(novalue),(novalue)
